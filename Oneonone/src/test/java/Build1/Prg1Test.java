@@ -10,6 +10,7 @@ public class Prg1Test {
 	{
 		System.out.println("hiii");
 		Reporter.log("hello",true);
+		Reporter.log("hii",true);
 	}
 	//hiii
 	//hi.
