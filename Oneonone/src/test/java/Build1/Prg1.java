@@ -10,5 +10,6 @@ public class Prg1 {
 		System.out.println("hiii");
 	}
 	//hiii
+	//hi.
 
 }
